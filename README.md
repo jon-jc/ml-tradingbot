@@ -1,6 +1,6 @@
 # Sentiment-Based Algorithmic Trading System
 
-Welcome to TraderBot, a machine learning-driven trading bot that uses live news sentiment to influence trading decisions. Below is the complete setup guide, including the use of a `.env` file for securely managing environment variables.
+Welcome to a machine learning-driven trading bot that uses live news sentiment to influence trading decisions. Below is the complete setup guide, including the use of a `.env` file for securely managing environment variables.
 
 ## Environment Setup
 
